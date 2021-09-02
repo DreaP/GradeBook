@@ -98,3 +98,10 @@ C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\obj\Debug\net5.0\Gra
 C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\obj\Debug\net5.0\ref\GradeBook.Test.dll
 C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\obj\Debug\net5.0\GradeBook.Test.pdb
 C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\obj\Debug\net5.0\GradeBook.Test.genruntimeconfig.cache
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.exe
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.dll
+C:\Users\APruitt\source\repos\gradebook\test\GradeBook.Test\bin\Debug\net5.0\GradeBook.pdb
